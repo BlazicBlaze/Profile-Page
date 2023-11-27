@@ -50,8 +50,8 @@ body {
 
 #streak, #xp, #league {
   background-color: #23272A;
-  border: #7FFF00 solid 10px;
-  border-radius: 20px;
+  border: #7FFF00 solid 20px;
+  border-radius: 30px;
   text-align: center;
   font-family: Arial;
   font-size: 50px;
