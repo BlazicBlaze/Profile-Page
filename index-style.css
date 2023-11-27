@@ -21,7 +21,7 @@ body {
   padding-left: 10px;
   padding-right: 10px;
   text-align: center;
-  font-size: 43px;
+  font-size: 53px;
 }
 
 #streak {
@@ -32,11 +32,11 @@ body {
   left: 5%;
   border: #7FFF00 solid 5px;
   border-radius: 10px;
-  padding-left: 22px;
-  padding-right: 22px;
-  padding-bottom: 30px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-bottom: 40px;
   text-align: center;
-  font-size: 40px;
+  font-size: 50px;
 }
 
 #xp {
@@ -46,11 +46,11 @@ body {
   right: 5%;
   border: #7FFF00 solid 5px;
   border-radius: 10px;
-  padding-left: 14px;
-  padding-right: 14px;
-  padding-bottom: 30px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-bottom: 40px;
   text-align: center;
-  font-size: 40px;
+  font-size: 50px;
 }
 
 #league {
@@ -60,9 +60,9 @@ body {
   right: 32.9%;
   border: #7FFF00 solid 5px;
   border-radius: 10px;
-  padding-left: 12px;
-  padding-right: 16px;
-  padding-bottom: 15px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-bottom: 40px;
   text-align: center;
-  font-size: 40px;
+  font-size: 50px;
 }
