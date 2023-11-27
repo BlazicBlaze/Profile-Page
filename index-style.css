@@ -11,7 +11,6 @@ body {
 }
 
 #username {
-  color: white;
   position: absolute;
   top: 35%;
   left: 32.5%;
@@ -23,49 +22,30 @@ body {
 }
 
 #streak {
-  background-color: #23272A;
-  color: white;
   position: absolute;
   top: 48%;
   left: 5%;
-  border: #7FFF00 solid 10px;
-  border-radius: 20px;
   padding-left: 65px;
   padding-right: 65px;
   padding-bottom: 80px;
-  text-align: center;
-  font-size: 50px;
-  font-family: Arial;
 }
 
 #xp {
-  background-color: #23272A;
   position: absolute;
   top: 48%;
   right: 5%;
-  border: #7FFF00 solid 10px;
-  border-radius: 20px;
   padding-left: 70px;
   padding-right: 70px;
   padding-bottom: 20px;
-  text-align: center;
-  font-size: 50px;
-  font-family: Arial;
 }
 
 #league {
-  /*background-color: #23272A;*/
   position: absolute;
   top: 50%;
   right: 33.3%;
- /* border: #7FFF00 solid 10px;
-  border-radius: 20px;*/
   padding-left: 65px;
   padding-right: 65px;
   padding-bottom: 40px;
-  /*text-align: center;
-  font-size: 50px;
-  font-family: Arial;*/
 }
 
 #streak, #xp, #league {
