@@ -20,6 +20,7 @@ body {
   left: 29.5%;
   padding-left: 10px;
   padding-right: 10px;
+  display: block;
   text-align: center;
   font-size: 53px;
 }
