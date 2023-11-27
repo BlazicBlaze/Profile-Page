@@ -11,6 +11,7 @@ body {
   position: absolute;
   top: 15%;
   left: 36%;
+  border: solid;
 }
 
 #username {
@@ -60,7 +61,7 @@ body {
   background-color: #23272A;
   position: absolute;
   top: 50%;
-  right: 34.5%;
+  right: 33%;
   border: #7FFF00 solid 10px;
   border-radius: 20px;
   padding-left: 65px;
